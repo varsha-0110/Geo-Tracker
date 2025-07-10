@@ -15,8 +15,7 @@ A real-time location tracking app built with **Node.js**, **Express**, **Socket.
 
 ## 🚀 Live Demo
 
-🔗 [View Live App](https://your-deployment-url.onrender.com)  
-> *(Replace this link with your actual deployed URL)*
+🔗 [](https://your-deployment-url.onrender.com)  
 
 ---
 
