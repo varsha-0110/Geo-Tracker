@@ -42,7 +42,7 @@ RealTimeTraker/
 │       └── script.js
 ├── views/
 │   └── index.ejs
-├── server.js
+├── app.js
 ├── package.json
 ├── .gitignore
 ```
@@ -64,7 +64,7 @@ RealTimeTraker/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/Geo-Tracker.git
+git clone https://github.com/varsha-0110/Geo-Tracker.git
 cd Geo-Tracker
 ```
 
