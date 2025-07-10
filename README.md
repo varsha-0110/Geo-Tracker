@@ -3,23 +3,23 @@
 
 A real-time location tracking app built with **Node.js**, **Express**, **Socket.IO**, and **Leaflet.js**. It allows users to share their live location and view other connected users on a map in real time.
 
-## 🔧 Features
+##  Features
 
-- 📍 Live geolocation tracking via browser
-- 🔄 Real-time updates using WebSockets
-- 🗺️ Interactive map with Leaflet.js
-- 👥 Automatically removes disconnected users
-- 🔗 Works on multiple devices or tabs simultaneously
+-  Live geolocation tracking via browser
+-  Real-time updates using WebSockets
+-  Interactive map with Leaflet.js
+-  Automatically removes disconnected users
+-  Works on multiple devices or tabs simultaneously
 
 ---
 
-## 🚀 Live Demo
+##  Live Demo
 
 🔗 [](https://your-deployment-url.onrender.com)  
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - **Node.js** – backend runtime
 - **Express.js** – web framework
@@ -30,25 +30,7 @@ A real-time location tracking app built with **Node.js**, **Express**, **Socket.
 
 ---
 
-## 📁 Project Structure
-
-```
-RealTimeTraker/
-├── public/
-│   ├── css/
-│   │   └── style.css
-│   └── js/
-│       └── script.js
-├── views/
-│   └── index.ejs
-├── app.js
-├── package.json
-├── .gitignore
-```
-
----
-
-## 🧪 How It Works
+##  How It Works
 
 1. User grants location access
 2. App emits real-time position via Socket.IO
@@ -58,7 +40,7 @@ RealTimeTraker/
 
 ---
 
-## 🧰 Setup Instructions (Local)
+##  Setup Instructions (Local)
 
 ### 1. Clone the Repository
 
@@ -87,7 +69,7 @@ http://localhost:4000
 
 ---
 
-## 🌐 Deployment (Render)
+##  Deployment (Render)
 
 1. Push repo to GitHub
 2. Go to [https://render.com](https://render.com)
@@ -100,9 +82,4 @@ http://localhost:4000
 
 ---
 
-## 🔒 .gitignore Recommended
-
-```
-node_modules/
-```
 
